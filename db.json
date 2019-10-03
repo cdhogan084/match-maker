@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "string0",
+            "exceptions": ["ex0.1", "ex0.2"]
+        },
+        {
+            "id": 1,
+            "name": "string1",
+            "exceptions": ["ex1.1", "ex1.2"]
+        },
+        {
+            "id": 2,
+            "name": "string2",
+            "exceptions": ["ex2.1", "ex2.2"]
+        }
+    ]
+}
